@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+/$.ajax({
+type: "POST",
+url: url,
+data: data,
+success: success,
+dataType: dataType
+});  
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>proba2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+print_r($_SESSION);
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>print</tabTrigger>
+  <description>print_r($_session_</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.basic, source.php.embedded.block.html, support.function.basic_functions.php</scope>
+</snippet>

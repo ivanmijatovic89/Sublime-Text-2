@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+alt+shift+q"], "command": "new_mijat_snippet" },
+    { "keys": ["ctrl+alt+f"], "command": "reindent"} ,
+    { "keys": ["ctrl+alt+q"], "command": "delete_empty_lines"} 
+    
+
+
+]

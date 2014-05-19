@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+<script>
+setTimeout(function(){
+   window.location.reload(1);
+}, 5000);
+</script>
+]]></content>
+    
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>js_refresh_5</tabTrigger>
+
+    <description>Refresh page 5 sec</description>
+    <!-- kada hocemo da pokazemo $ just do escaping   \ $ ( bez razmaka ) -->   
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php, text.html, source.css, source.json, source.js, source.css.less, source.sql, text.html.tcl, source.regexp, source.sass, text.plain, text.html.textile, text.xml, text.xml.xsl, source.yaml </scope>
+    
+
+</snippet>
