@@ -74,7 +74,7 @@
     // May be set to true, false, or "auto", where it will be disabled for
     // source code, and otherwise enabled.
     //"word_wrap": "auto",
-    "word_wrap": false,
+    "word_wrap": true,
 
     // Set to a value other than 0 to force wrapping at that column rather than the
     // window width
@@ -264,7 +264,7 @@
     "show_tab_close_buttons": true,
 
     // Show folders in the side bar in bold
-    "bold_folder_labels": false,
+    "bold_folder_labels": true,
 
     // OS X 10.7 only: Set to true to disable Lion style full screen support.
     // Sublime Text must be restarted for this to take effect.

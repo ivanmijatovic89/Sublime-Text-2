@@ -1,8 +1,10 @@
 [
+    // da napravi novi snipet iz broswer-a  - OVO JE PLUGIN SNIPPET MAKER
+    { "keys": ["ctrl+alt+q"], "command": "make_snippet"},
+	// da napravi novi mijat snipet // OVO JE HARDCODOVANO
 	{ "keys": ["ctrl+alt+shift+q"], "command": "new_mijat_snippet" },
-    { "keys": ["ctrl+alt+f"], "command": "reindent"} ,
-    { "keys": ["ctrl+alt+q"], "command": "delete_empty_lines"} 
-    
-
-
+	// reident
+	{ "keys": ["ctrl+alt+f"], "command": "reindent"} ,
+	// da izbrise sve linije
+    { "keys": ["ctrl+alt+e"], "command": "delete_empty_lines"}
 ]

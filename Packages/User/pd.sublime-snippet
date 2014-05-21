@@ -1,0 +1,13 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+echo '<pre>';
+print_r( $0 );
+die;
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>pd</tabTrigger>
+  <description>pre print_r die</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger text.html.laravel-blade  -->
+  <scope>source.php, text.html, source.css, source.json, source.js, source.css.less, source.sql, text.html.tcl, source.regexp, source.sass, text.plain, text.html.textile, text.xml, text.xml.xsl, source.yaml, text.html.laravel-blade, meta.tag.block.any.html, punctuation.definition.tag.begin.html </scope>
+</snippet>

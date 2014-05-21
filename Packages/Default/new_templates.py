@@ -73,7 +73,7 @@ mijat snippet
     <!-- <description></description> -->
     <!-- kada hocemo da pokazemo \$ just do escaping   \ \$ ( bez razmaka ) -->   
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.php, text.html, source.css, source.json, source.js, source.css.less, source.sql, text.html.tcl, source.regexp, source.sass, text.plain, text.html.textile, text.xml, text.xml.xsl, source.yaml </scope>
+    <scope>source.php, text.html, source.css, source.json, source.js, source.css.less, source.sql, text.html.tcl, source.regexp, source.sass, text.plain, text.html.textile, text.xml, text.xml.xsl, source.yaml, text.html.laravel-blade, meta.tag.block.any.html, punctuation.definition.tag.begin.html </scope>
     
 
 </snippet>

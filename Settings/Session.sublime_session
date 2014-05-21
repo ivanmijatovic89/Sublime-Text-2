@@ -1,8 +1,9 @@
 {
 	"folder_history":
 	[
-		"/C/xampp/htdocs/snadmin/public_html",
 		"/C/xampp/htdocs/fbGit",
+		"/C/xampp/htdocs/snadmin",
+		"/C/xampp/htdocs/snadmin/public_html",
 		"/C/xampp/htdocs/fbkiller",
 		"/C/xampp/htdocs/fbOriginal",
 		"/C/xampp/htdocs/fbOriginal - Copy",
@@ -32,10 +33,10 @@
 		"/C/xampp/htdocs/f",
 		"/S/public_html"
 	],
-	"last_window_id": 44,
+	"last_window_id": 49,
 	"settings":
 	{
-		"new_window_height": 985.0,
+		"new_window_height": 994.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -43,812 +44,25 @@
 				"selected_items":
 				[
 					[
-						"jq",
-						"jq_ready	asd"
-					],
-					[
-						"php",
-						"php_error	ini_set('display_errors',1); ini_set('display_startup_errors',1); error_reporting(-1);"
-					],
-					[
-						"php_err",
-						"php_errors	php_errors"
-					],
-					[
-						"image",
-						"image_name"
-					],
-					[
-						"make",
-						"make_query"
-					],
-					[
-						"print",
-						"printer_list"
-					],
-					[
-						"res",
-						"resultSettings"
-					],
-					[
-						"config",
-						"config_file_path"
-					],
-					[
-						"time",
-						"timeDifference"
-					],
-					[
-						"back",
-						"background"
-					],
-					[
-						"max",
-						"max_broj_kolona"
-					],
-					[
-						"name",
-						"name_of_chart_type"
-					],
-					[
-						"datumi",
-						"datumi_koji_se_koriste"
-					],
-					[
-						"niz",
-						"niz_za_select_basic_bar_chart"
-					],
-					[
-						"data",
-						"dataset2_start"
-					],
-					[
-						"datas",
-						"dataset_1_mesec"
-					],
-					[
-						"dataset",
-						"dataset_1"
-					],
-					[
-						"f1",
-						"f1_time_of_the_day"
-					],
-					[
-						"area",
-						"area_with_negative_values"
-					],
-					[
-						"ear",
-						"earliest_series_start_id"
-					],
-					[
-						"change",
-						"change_to"
-					],
-					[
-						"data3",
-						"data3_count"
-					],
-					[
-						"poc",
-						"pochinje_od"
-					],
-					[
-						"broj",
-						"broj_od_koje_kategorije_pocinje"
-					],
-					[
-						"od",
-						"od_koje_kategorije_pocinje"
-					],
-					[
-						"ser",
-						"series_start"
-					],
-					[
-						"for",
-						"for	for (…) {…}"
-					],
-					[
-						"Ear",
-						"earliest_series_start"
-					],
-					[
-						"freq",
-						"frequency"
-					],
-					[
-						"fre",
-						"frequency_count"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"wa",
-						"waTable_cart"
-					],
-					[
-						"br",
-						"brojac_m"
-					],
-					[
-						"xls",
-						"xls"
-					],
-					[
-						"ses",
-						"sessObj"
-					],
-					[
-						"f_m",
-						"f_mob2"
-					],
-					[
-						"obj",
-						"object"
-					],
-					[
-						"json",
-						"json_encode"
-					],
-					[
-						"post",
-						"postjquery	jquery Ajax .post()"
-					],
-					[
 						"j",
-						"jpost	Jquery Post Ajax"
+						"js_refresh_5	Refresh page 5 sec"
 					],
 					[
-						"jso",
-						"json_encode"
+						"mij",
+						"mijat3	opis 3"
 					],
 					[
-						"mi",
-						"mijat"
+						"mijat",
+						"mijat	mijat"
 					],
 					[
-						"in",
-						"input	Tag"
+						"dvi",
+						"dvi3	dvi3"
 					],
 					[
-						"js",
-						"json_encode"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 265.0,
-				"selected_items":
-				[
-					[
-						"trim",
-						"Trimmer: Delete empty lines."
+						"form",
+						"form_checkbox	Form::checkbox"
 					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"snippet a",
-						"Snippet: Jquery .post() Ajax"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"snippet make",
-						"SnippetMaker: Make Snippet"
-					],
-					[
-						"snippet mak",
-						"SnippetMaker: Make Snippet"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"snippet ma",
-						"SnippetMaker: Make Snippet"
-					],
-					[
-						"brace",
-						"BracketHighlighter: Select Bracket Content"
-					],
-					[
-						"bracer",
-						"BracketHighlighter: Select Bracket Content"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"bracket",
-						"BracketHighlighter: Select Bracket Content"
-					],
-					[
-						"scaff",
-						"Laravel Generate: Scaffold"
-					],
-					[
-						"laravel",
-						"Laravel Generate: Model"
-					],
-					[
-						"scaf",
-						"Laravel Generate: Scaffold"
-					],
-					[
-						"larave",
-						"Laravel Generate: Scaffold"
-					],
-					[
-						"snipet",
-						"SnippetMaker: Make Snippet"
-					],
-					[
-						"bracke",
-						"BracketHighlighter: Select Bracket Content"
-					],
-					[
-						"book",
-						"Bookmarks: Clear All"
-					],
-					[
-						"brac",
-						"BracketHighlighter: Select Tag Name (closing and opening)"
-					],
-					[
-						"trime",
-						"Trimmer: Trim trailing whitespace."
-					],
-					[
-						"hight",
-						"BracketHighlighter: Wrap Selections with Brackets"
-					],
-					[
-						"high",
-						"BracketHighlighter: Swap Brackets"
-					],
-					[
-						"brack",
-						"Preferences: Browse Packages"
-					],
-					[
-						"snippet maker",
-						"SnippetMaker: Make Snippet"
-					],
-					[
-						"snippet:",
-						"Snippet: Jquery Post Ajax"
-					],
-					[
-						"blade",
-						"Set Syntax: PHP - Laravel Blade"
-					],
-					[
-						"brow",
-						"SFTP: Browse Server…"
-					],
-					[
-						"sftp",
-						"SFTP: Setup Server…"
-					],
-					[
-						"json",
-						"Set Syntax: SJSON"
-					],
-					[
-						"laravel ",
-						"Laravel Generate: Controller"
-					],
-					[
-						"lara res",
-						"Laravel Generate: Resource"
-					],
-					[
-						"laravel r",
-						"Laravel Generate: Resource"
-					],
-					[
-						"resour",
-						"Laravel Generate: Resource"
-					],
-					[
-						"larave res",
-						"Laravel Generate: Resource"
-					],
-					[
-						"resource",
-						"Laravel Generate: Resource"
-					],
-					[
-						"res",
-						"Laravel Generate: Resource"
-					],
-					[
-						"reso",
-						"Laravel Artisan Command"
-					],
-					[
-						"ftp",
-						"SFTP: Browse Server…"
-					],
-					[
-						"",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"packa\\",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"package conta",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 816.0
-			},
-			"console":
-			{
-				"height": 153.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/xampp/htdocs/fbGit/languages/romanian.php",
-				"/C/xampp/htdocs/fbGit/languages/netherlands.php",
-				"/C/xampp/htdocs/fbGit/languages/english.php",
-				"/C/xampp/htdocs/fbGit/themes/dolphin/html/welcome/choose-username.html",
-				"/C/xampp/htdocs/fbGit/sources/choose-username.php",
-				"/C/xampp/htdocs/fbGit/sources/settings.php",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/jq_ready.sublime-snippet",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/new_templates.py",
-				"/C/xampp/htdocs/fbGit/includes/config.php",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/php_error.sublime-snippet",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/Main.sublime-menu",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/php_errors.sublime-snippet",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Default (Windows).sublime-keymap",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Main.sublime-menu",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/C/xampp/htdocs/fbGit/sources/welcome.php",
-				"/C/Users/SN/AppData/Local/Temp/scp55411/public_html/sources/welcome.php",
-				"/C/Users/SN/AppData/Local/Temp/scp55563/public_html/index.php",
-				"/C/Users/SN/AppData/Local/Temp/scp55771/public_html/includes/classes.php",
-				"/C/Users/SN/AppData/Local/Temp/scp54274/public_html/includes/config.php",
-				"/C/xampp/htdocs/fbGit/.git/config",
-				"/C/xampp/htdocs/fbkiller/includes/config.php",
-				"/C/xampp/htdocs/fbOriginal/sources/profile.php",
-				"/C/xampp/htdocs/fbGit/README.md",
-				"/C/Users/SN/AppData/Local/Temp/scp52849/public_html/includes/config.php",
-				"/C/xampp/htdocs/fbOriginal/includes/config.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/2014-05-09 - Ivan Backup/public_html/sources/profile.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/2014-05-09 - Stefan Backup/fb.killer/sources/profile.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/facebookkiller ORIGINAL/facebookkiller/sources/profile.php",
-				"/C/xampp/htdocs/facebookkiller/includes/config.php",
-				"/C/Users/SN/AppData/Local/Temp/scp06777/public_html/custom/views/get_photos.php",
-				"/C/xampp/htdocs/fb-last - radi/includes/classes.php",
-				"/C/Users/SN/AppData/Local/Temp/scp20636/public_html/custom/views/open_album.php",
-				"/C/xampp/htdocs/facebookkiller/includes/classes.php",
-				"/C/Users/SN/AppData/Local/Temp/scp53281/public_html/custom/models/user_model.php",
-				"/C/xampp/htdocs/fbOriginal/custom/models/user_model.php",
-				"/C/xampp/htdocs/fbOriginal/index.php",
-				"/C/xampp/htdocs/fbOriginal/sources/login-social.php",
-				"/C/xampp/htdocs/fbOriginal - Copy/index.php",
-				"/C/Users/SN/Desktop/confs/config-ne radi.php",
-				"/C/Users/SN/Desktop/confs/config- ne radi ORIGINAL.php",
-				"/C/xampp/htdocs/fbOriginal/includes/__config.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/facebookkiller ORIGINAL/facebookkiller/includes/config.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/2014-05-09 - Stefan Backup/fb.killer/includes/config.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/2014-05-09 - Stefan Backup/fb.killer/includes/config (2).php",
-				"/C/xampp/htdocs/fb-last/includes/config.php",
-				"/C/xampp/htdocs/fb-last/includes/classes.php",
-				"/C/xampp/htdocs/fb-last/includes/old/config.php",
-				"/C/xampp/htdocs/fb-last/sources/welcome.php",
-				"/C/xampp/htdocs/fb-last/sources/login-social.php",
-				"/C/Users/SN/Desktop/thumb.php",
-				"/C/xampp/htdocs/fb-last/login.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/facebookkiller ORIGINAL - Copy/facebookkiller/sources/settings.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/facebookkiller ORIGINAL/facebookkiller/themes/dolphin/html/page/contact.html",
-				"/C/Users/SN/Desktop/sn/index.html",
-				"/C/Users/SN/AppData/Local/Temp/scp44062/public_html/sources/login-social.php",
-				"/C/Users/SN/AppData/Local/Temp/scp47495/public_html/sources/settings.php",
-				"/C/Users/SN/AppData/Local/Temp/scp43846/public_html/includes/classes.php",
-				"/C/xampp/htdocs/teachers/index.php",
-				"/C/xampp/htdocs/teachers/public_html/index.php",
-				"/C/Users/SN/AppData/Local/Temp/scp37548/public_html/thumb.php",
-				"/C/Users/SN/AppData/Local/Temp/scp44711/public_html/sources/choose-username.php",
-				"/C/Users/SN/AppData/Local/Temp/scp34471/public_html/themes/dolphin/html/welcome/content.html",
-				"/C/Users/SN/Desktop/myclabs-jquery.confirm-2.2.0-0-ge8b9fcd/myclabs-jquery.confirm-e8b9fcd/demo/index.html",
-				"/C/Users/SN/Desktop/myclabs-jquery.confirm-2.2.0-0-ge8b9fcd/myclabs-jquery.confirm-e8b9fcd/index.html",
-				"/C/Users/SN/AppData/Local/Temp/scp44370/public_html/sources/feed.php",
-				"/C/Users/SN/AppData/Local/Temp/scp14040/public_html/themes/dolphin/html/settings/security.html",
-				"/C/Users/SN/AppData/Local/Temp/scp14832/public_html/sources/settings.php",
-				"/C/Users/SN/AppData/Local/Temp/scp33842/public_html/sources/welcome.php",
-				"/C/Users/SN/AppData/Local/Temp/scp19340/public_html/sources/choose-username.php",
-				"/C/Users/SN/AppData/Local/Temp/scp50204/public_html/sources/login-social.php",
-				"/C/Users/SN/AppData/Local/Temp/scp31503/public_html/includes/classes.php",
-				"/C/Users/SN/AppData/Local/Temp/scp34943/public_html/includes/captcha.php",
-				"/C/Users/SN/AppData/Local/Temp/scp04753/public_html/themes/dolphin/html/welcome/content.html",
-				"/C/Users/SN/AppData/Local/Temp/scp14272/public_html/sources/welcome.php",
-				"/C/Users/SN/AppData/Local/Temp/scp17204/public_html/themes/dolphin/html/page/sidebar.html",
-				"/C/Users/SN/AppData/Local/Temp/scp26716/public_html/sources/profile.php",
-				"/C/Users/SN/AppData/Local/Temp/scp29876/public_html/themes/dolphin/html/settings/security.html",
-				"/C/Users/SN/AppData/Local/Temp/scp21389/public_html/includes/config.php",
-				"/C/Users/SN/AppData/Local/Temp/scp31182/public_html/includes/classes.php",
-				"/C/Users/SN/AppData/Local/Temp/scp22901/public_html/sources/settings.php",
-				"/C/Users/SN/AppData/Local/Temp/scp14601/www.seanleonardmusic.com/epk/music-player/myplaylist.js",
-				"/C/Users/SN/AppData/Local/Temp/scp23074/www.seanleonardmusic.com/epk/.htaccess",
-				"/C/Users/SN/AppData/Local/Temp/scp35005/public_html/requests/subscribe.php",
-				"/C/Users/SN/AppData/Local/Temp/scp27932/public_html/themes/dolphin/html/profile/sidebar.html",
-				"/C/Users/SN/AppData/Local/Temp/scp55553/public_html/sources/page.php",
-				"/C/Users/SN/AppData/Local/Temp/scp21663/public_html2/includes/config.php",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/print.sublime-snippet",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/pre_print.sublime-snippet",
-				"/C/Users/SN/AppData/Local/Temp/scp12472/public_html/sources/login-social.php",
-				"/C/Users/SN/AppData/Local/Temp/scp58148/public_html/themes/dolphin/html/wrapper.html",
-				"/C/Users/SN/AppData/Local/Temp/scp50656/public_html/themes/dolphin/html/welcome/choose-username.html",
-				"/C/Users/SN/AppData/Local/Temp/scp18507/public_html/poshaljimail.php",
-				"/C/Users/SN/AppData/Local/Temp/scp56353/public_html/includes/skins.php",
-				"/C/Users/SN/AppData/Local/Temp/scp55442/public_html/index.php",
-				"/C/Users/SN/AppData/Local/Temp/scp14815/public_html/sources/choose-username.php",
-				"/D/backup/ceo_sajt/html/cheftone/index.html",
-				"/C/Users/SN/AppData/Local/Temp/fz3temp-1/login.php",
-				"/C/Users/SN/AppData/Local/Temp/scp40466/public_html/thumb.php",
-				"/C/Users/SN/AppData/Local/Temp/fz3temp-1/index.html",
-				"/C/Users/SN/AppData/Local/Temp/fz3temp-1/index 2.html",
-				"/C/Users/SN/AppData/Local/Temp/scp43383/public_html/includes/config.php",
-				"/C/Users/SN/AppData/Local/Temp/fz3temp-1/ttw-music-player.js",
-				"/C/Users/SN/AppData/Local/Temp/scp57972/public_html/ignore.zip",
-				"/C/Users/SN/AppData/Local/Temp/fz3temp-1/timthumb_int_e7bbeab62ec52f48722218d0cc6018de.timthumb.txt",
-				"/C/Users/SN/AppData/Local/Temp/scp45855/public_html/uploads/avatars/525773714_1546449994_420615195.jpg",
-				"/C/Users/SN/AppData/Local/Temp/scp18800/public_html/thumb.php",
-				"/C/Users/SN/Desktop/images.php",
-				"/C/Users/SN/AppData/Local/Temp/scp32271/public_html/images.php",
-				"/C/Users/SN/AppData/Local/Temp/scp40492/public_html/includes/skins.php",
-				"/C/Users/SN/AppData/Local/Temp/scp30178/public_html/themes/dolphin/html/welcome/choose-username.html",
-				"/C/Users/SN/AppData/Local/Temp/scp46075/public_html/includes/classes.php",
-				"/C/Users/SN/AppData/Local/Temp/scp29041/public_html/sources/choose-username.php",
-				"/C/Users/SN/AppData/Local/Temp/scp35377/public_html/sources/welcome.php",
-				"/C/Users/SN/AppData/Local/Temp/scp20764/public_html/themes/dolphin/html/welcome/content.html",
-				"/C/Users/SN/AppData/Local/Temp/scp35674/public_html/sources/login-social.php",
-				"/C/Users/SN/AppData/Local/Temp/scp28905/public_html/includes/config.php",
-				"/C/Users/SN/AppData/Local/Temp/scp39173/public_html/thumb.php",
-				"/C/Users/SN/AppData/Local/Temp/scp48638/public_html/themes/dolphin/html/welcome/choose-username.php",
-				"/C/Users/SN/AppData/Local/Temp/scp28673/public_html/sources/choose_username.php",
-				"/C/Users/SN/AppData/Local/Temp/scp27103/public_html/sources/select_user_name.php",
-				"/C/Users/SN/AppData/Local/Temp/scp04064/public_html/sources/feed.php",
-				"/C/Users/SN/AppData/Local/Temp/scp45211/public_html/requests/load_timeline.php",
-				"/C/Users/SN/AppData/Local/Temp/scp04231/public_html/sources/welcome.php",
-				"/C/Users/SN/AppData/Local/Temp/scp19179/public_html/requests/check_notifications.php",
-				"/C/Users/SN/AppData/Local/Temp/scp55143/public_html/includes/classes.php",
-				"/C/Users/SN/AppData/Local/Temp/scp57719/public_html/sources/login-social.php"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 90.0,
-				"where_history":
-				[
-					"C:\\xampp\\htdocs\\fb-last",
-					"C:\\xampp\\htdocs\\facebookkiller",
-					"C:\\Users\\SN\\Desktop\\hybridauth-2.1.2\\h",
-					"C:\\xampp\\htdocs\\facebookkiller",
-					"C:\\xampp\\htdocs\\face"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"user_ttl_change_username",
-					"user_ttl_change_username i",
-					"user_ttl_",
-					"user_ttl_c",
-					"user_ttl_change_usernam",
-					" user_ttl_change_usernam",
-					"security",
-					"username",
-					"update",
-					"username",
-					"new sni",
-					"username",
-					"college_year",
-					"Year",
-					"email",
-					"settings",
-					"username",
-					"curr",
-					"username",
-					"sub_first_name",
-					"username",
-					"sub_first_name",
-					"username",
-					"error_reporting",
-					"error",
-					"currentFirstName",
-					"if(isset($_GET['b'])) ",
-					">>>>>",
-					"<<<<",
-					"socialL",
-					"<<<<",
-					"sociall",
-					"soci",
-					"sol",
-					"<<<<<",
-					"socialLogIn",
-					"social",
-					"update",
-					"USER P",
-					"-------------",
-					"$r->",
-					"socialIn",
-					"this",
-					"socialLogIn_deactivated",
-					"tmpl",
-					"unset",
-					"unser",
-					"header",
-					"mysql",
-					"quer",
-					"<script",
-					"header",
-					"footer",
-					".js",
-					"class ",
-					"$cash",
-					"$cas",
-					"display",
-					"cannot be",
-					"$cache_dir",
-					"cannot be displayed because it contains errors",
-					"cannot be displayed because it contains errors.",
-					"base",
-					"open_",
-					"open",
-					"update",
-					"upload",
-					"sess",
-					"md5",
-					"class ",
-					"class",
-					"getSett",
-					"include",
-					"word_wrap",
-					"word",
-					"wo0rd",
-					"mijat",
-					"page main",
-					"page_man",
-					"get_user_by_provider_and_id",
-					"create",
-					"pageMa",
-					"create_new_hybridauth_user",
-					"$provider_name, $user_profile->identifier",
-					"get_user_by_provider_and_id",
-					"			$",
-					"Hybriauth config does not exist on the given path",
-					"config",
-					"uros",
-					"Your application key and secret are required in order to connect",
-					"Your application key and secret are required in order to connect to Twitter",
-					"before",
-					"Your application key and secret are required in order to connect to Twitter",
-					"big_",
-					"big_orange",
-					"36px",
-					"line-height:36",
-					"line-height: 36",
-					"line-height:36",
-					"big_orange",
-					"big_orange ",
-					"radnog",
-					"prijavi",
-					"želim",
-					"ios program",
-					"ios",
-					"Postanite vešt",
-					"Postanite vešt ",
-					"posta",
-					"Stručna",
-					"prakt",
-					"data-x=\"0\"",
-					"region ",
-					"damir",
-					"iskustvom",
-					"media",
-					"d drugih upravo zb",
-					"ios",
-					"value=\"ios",
-					"ios",
-					" \n",
-					"web p",
-					"web p]",
-					"data-x",
-					"kickstart",
-					"kick ass",
-					"kickass",
-					"big_orange"
-				],
-				"highlight": false,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					" data-x=\"20\"",
-					" ",
-					"updateUserSettings",
-					"'",
-					"sheetData1",
-					"waTable_cart",
-					"1286B2",
-					"jQuery",
-					" ",
-					"kooslive",
-					"#B929C8",
-					"img",
-					"./"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 35.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 124.0
-			},
-			"output.sftp":
-			{
-				"height": 146.0
-			},
-			"replace":
-			{
-				"height": 66.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"engl",
-						"languages/english.php"
-					],
-					[
-						"languages",
-						"languages/english.php"
-					],
-					[
-						"confi",
-						"includes/config.php"
-					],
-					[
-						"sourcesett",
-						"sources/settings.php"
-					],
-					[
-						"classesphp",
-						"includes/classes.php"
-					],
-					[
-						"sourcesettingsph",
-						"sources/settings.php"
-					],
-					[
-						"welcomecontenthtml",
-						"themes/dolphin/html/welcome/content.html"
-					],
-					[
-						"contact.html",
-						"themes/dolphin/html/page/contact.html"
-					],
-					[
-						"thum",
-						"thumb.php"
-					],
-					[
-						"class",
-						"includes/classes.php"
-					],
-					[
-						"upload",
-						"Examples/upload.php"
-					],
-					[
-						"07",
-						"Examples/07reader.php"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 253.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 1367.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"pocetak",
 						"pocetak_kursa"
@@ -1010,10 +224,6 @@
 						"postjquery	jquery Ajax .post()"
 					],
 					[
-						"j",
-						"jpost	Jquery Post Ajax"
-					],
-					[
 						"jso",
 						"json_encode"
 					],
@@ -1031,77 +241,36 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/C/xampp/htdocs/snadmin/public_html/app/config/database.php",
-					"settings":
-					{
-						"buffer_size": 3304,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "<?php\n\n\n\nuse Illuminate\\Auth\\UserInterface;\n\nuse Illuminate\\Auth\\Reminders\\RemindableInterface;\n\n\n\nclass User extends \\Cartalyst\\Sentry\\Users\\Eloquent\\User implements UserInterface, RemindableInterface {\n\n\n \n	/**\n\n	 * The database table used by the model.\n\n	 *\n\n	 * @var string\n\n	 */\n\n	protected $table = 'users';\n\n\n\n	/**\n\n	 * The attributes excluded from the model's JSON form.\n\n	 *\n\n	 * @var array\n\n	 */\n\n	protected $hidden = array('password');\n\n\n\n	/**\n\n	 * Get the unique identifier for the user.\n\n	 *\n\n	 * @return mixed\n\n	 */\n\n	public function getAuthIdentifier()\n\n	{\n\n		return $this->getKey();\n\n	}\n\n\n\n	/**\n\n	 * Get the password for the user.\n\n	 *\n\n	 * @return string\n\n	 */\n\n	public function getAuthPassword()\n\n	{\n\n		return $this->password;\n\n	}\n\n\n\n	/**\n\n	 * Get the e-mail address where password reminders are sent.\n\n	 *\n\n	 * @return string\n\n	 */\n\n	public function getReminderEmail()\n\n	{\n\n		return $this->email;\n\n	}\n\n\n\n}",
-					"file": "/C/xampp/htdocs/snadmin/public_html/app/models/User.php",
-					"file_size": 974,
-					"file_write_time": 130446372003449834,
-					"settings":
-					{
-						"buffer_size": 924,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/xampp/htdocs/snadmin/public_html/app/controllers/UserController.php",
-					"settings":
-					{
-						"buffer_size": 18084,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/xampp/htdocs/snadmin/public_html/app/Authority/Service/Form/Register/RegisterForm.php",
-					"settings":
-					{
-						"buffer_size": 1119,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "<?php namespace Authority\\Service\\Form\\Register;\nuse Authority\\Service\\Validation\\AbstractLaravelValidator;\nclass RegisterFormLaravelValidator extends AbstractLaravelValidator {\n	/**\n	 * Validation rules\n	 *\n	 * @var Array \n	 */\n	protected $rules = array(\n		'email' => 'required|min:4|max:32|email',\n		'password' => 'required|min:6|confirmed',\n		'password_confirmation' => 'required',\n		'first_name'=>'required',\n		'last_name'=>'required',\n		'phone'=>'required',\n		'city'=>'required'\n	);\n	/**\n	 * Custom Validation Messages\n	 *\n	 * @var Array \n	 */\n	protected $messages = array(\n		//'email.required' => 'An email address is required.'\n	);\n}",
-					"file": "/C/xampp/htdocs/snadmin/public_html/app/Authority/Service/Form/Register/RegisterFormLaravelValidator.php",
-					"file_size": 665,
-					"file_write_time": 130449756528750883,
-					"settings":
-					{
-						"buffer_size": 640,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 201,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Trimmer.py",
-					"settings":
-					{
-						"buffer_size": 3799,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 127.0,
 				"selected_items":
 				[
+					[
+						"snippet pr",
+						"Snippet: pre print_r die"
+					],
+					[
+						"blade",
+						"BracketHighlighter: Select Tag Name (closing and opening)"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"snippetmak",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"snippet",
+						"SnippetMaker: Make Snippet"
+					],
 					[
 						"trim",
 						"Trimmer: Delete empty lines."
@@ -1117,14 +286,6 @@
 					[
 						"packege",
 						"Preferences: Package Control Settings – Default"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"scaf",
@@ -1219,10 +380,6 @@
 						"Snippet: Jquery Post Ajax"
 					],
 					[
-						"blade",
-						"Set Syntax: PHP - Laravel Blade"
-					],
-					[
 						"brow",
 						"SFTP: Browse Server…"
 					],
@@ -1291,7 +448,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 464.0
+				"width": 512.0
 			},
 			"console":
 			{
@@ -1308,15 +465,51 @@
 			},
 			"file_history":
 			[
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/pf.sublime-snippet",
+				"/C/xampp/htdocs/snadmin/public_html/app/controllers/BaseController.php",
+				"/C/Google Drive/serveri/facebookklller.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/config/database.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/cago.sublime-snippet",
+				"/C/Users/SN/AppData/Local/Temp/scp32393/public_html/app/views/metronic/empty.blade.php",
+				"/D/backup/facebookkiller/sources/notifications.php",
+				"/C/Users/SN/AppData/Local/Temp/scp35467/public_html/app/controllers/NotificationsController.php",
+				"/D/backup/facebookkiller/includes/classes.php",
+				"/D/backup/facebookkiller/requests/check_messages.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/Authority/Service/Form/Register/RegisterFormLaravelValidator.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/C/xampp/htdocs/snadmin/public_html/app/models/User.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/form_select.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/SN/Desktop/index.html",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/new_templates.py",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/dvi.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/SnippetMaker/snippet_maker.py",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/proba2.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/print.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/snipet.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/php_error.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/js_refresh_5.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/google_jquery.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.last-run",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/MySnippets.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/mijat3.sublime-snippet",
+				"/C/xampp/htdocs/snadmin/public_html/app/controllers/UserController.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/dvi3.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/form_checkbox.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/form_label.sublime-snippet",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/users/create.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/tests/UserControllerTest.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Default.sublime-commands",
+				"/C/xampp/htdocs/snadmin/public_html/app/Authority/Service/Form/Register/RegisterForm.php",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Trimmer.pyc",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Main.sublime-menu",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/MySnippets.sublime-settings",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Find Function Definition/go2function.sublime-settings",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Find Function Definition/README.md",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Default (Windows).sublime-keymap",
 				"/C/xampp/htdocs/snadmin/public_html/vendor/nesbot/carbon/readme.md",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Function Name Display/Function Name Display.sublime-settings",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Function Name Display.sublime-settings",
 				"/C/xampp/htdocs/snadmin/public_html/vendor/phpunit/phpunit/Tests/Util/TypeTest.php",
@@ -1336,13 +529,9 @@
 				"/C/xampp/htdocs/snadmin/public_html/app/views/emails/create.blade.php",
 				"/C/xampp/htdocs/snadmin/public_html/app/views/emails/edit.blade.php",
 				"/C/xampp/htdocs/snadmin/public_html/app/views/emails/show.blade.php",
-				"/C/xampp/htdocs/snadmin/public_html/app/config/database.php",
 				"/C/xampp/htdocs/snadmin/public_html/app/views/jobs/promote.blade.php",
 				"/C/xampp/htdocs/snadmin/public_html/app/views/jobs/create.blade.php",
 				"/C/xampp/htdocs/snadmin/public_html/app/views/groups/edit.blade.php",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
 				"/C/xampp/htdocs/snadmin/public_html/app/views/groups/index.blade.php",
 				"/C/Users/SN/Desktop/james.txt",
@@ -1371,15 +560,12 @@
 				"/C/Users/SN/AppData/Local/Temp/scp40310/public_html/app/controllers/StatisticsController.php",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/Main.sublime-menu",
 				"/C/xampp/htdocs/fbGit/themes/dolphin/html/settings/security.html",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/js_refresh_5.sublime-snippet",
 				"/C/xampp/htdocs/fbGit/languages/english.php",
 				"/C/xampp/htdocs/fbGit/themes/dolphin/html/admin/users_settings.html",
 				"/C/xampp/htdocs/fbGit/languages/romanian.php",
 				"/C/xampp/htdocs/fbGit/languages/netherlands.php",
 				"/C/xampp/htdocs/fbGit/themes/dolphin/html/welcome/choose-username.html",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/jq_ready.sublime-snippet",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/new_templates.py",
-				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/php_error.sublime-snippet",
 				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/php_errors.sublime-snippet",
 				"/C/xampp/htdocs/fbGit/sources/welcome.php",
 				"/C/Users/SN/AppData/Local/Temp/scp55411/public_html/sources/welcome.php",
@@ -1406,36 +592,7 @@
 				"/C/xampp/htdocs/fbOriginal/sources/login-social.php",
 				"/C/xampp/htdocs/fbOriginal - Copy/index.php",
 				"/C/Users/SN/Desktop/confs/config-ne radi.php",
-				"/C/Users/SN/Desktop/confs/config- ne radi ORIGINAL.php",
-				"/C/xampp/htdocs/fbOriginal/includes/__config.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/facebookkiller ORIGINAL/facebookkiller/includes/config.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/2014-05-09 - Stefan Backup/fb.killer/includes/config.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/2014-05-09 - Stefan Backup/fb.killer/includes/config (2).php",
-				"/C/xampp/htdocs/fb-last/includes/config.php",
-				"/C/xampp/htdocs/fb-last/includes/classes.php",
-				"/C/xampp/htdocs/fb-last/includes/old/config.php",
-				"/C/xampp/htdocs/fb-last/sources/welcome.php",
-				"/C/xampp/htdocs/fb-last/sources/login-social.php",
-				"/C/Users/SN/Desktop/thumb.php",
-				"/C/xampp/htdocs/fb-last/login.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/facebookkiller ORIGINAL - Copy/facebookkiller/sources/settings.php",
-				"/C/Users/SN/Desktop/stefan -facebookKiller/facebookkiller ORIGINAL/facebookkiller/themes/dolphin/html/page/contact.html",
-				"/C/Users/SN/Desktop/sn/index.html",
-				"/C/Users/SN/AppData/Local/Temp/scp44062/public_html/sources/login-social.php",
-				"/C/Users/SN/AppData/Local/Temp/scp47495/public_html/sources/settings.php",
-				"/C/Users/SN/AppData/Local/Temp/scp43846/public_html/includes/classes.php",
-				"/C/xampp/htdocs/teachers/index.php",
-				"/C/xampp/htdocs/teachers/public_html/index.php",
-				"/C/Users/SN/AppData/Local/Temp/scp37548/public_html/thumb.php",
-				"/C/Users/SN/AppData/Local/Temp/scp44711/public_html/sources/choose-username.php",
-				"/C/Users/SN/AppData/Local/Temp/scp34471/public_html/themes/dolphin/html/welcome/content.html",
-				"/C/Users/SN/Desktop/myclabs-jquery.confirm-2.2.0-0-ge8b9fcd/myclabs-jquery.confirm-e8b9fcd/demo/index.html",
-				"/C/Users/SN/Desktop/myclabs-jquery.confirm-2.2.0-0-ge8b9fcd/myclabs-jquery.confirm-e8b9fcd/index.html",
-				"/C/Users/SN/AppData/Local/Temp/scp44370/public_html/sources/feed.php",
-				"/C/Users/SN/AppData/Local/Temp/scp14040/public_html/themes/dolphin/html/settings/security.html",
-				"/C/Users/SN/AppData/Local/Temp/scp14832/public_html/sources/settings.php",
-				"/C/Users/SN/AppData/Local/Temp/scp33842/public_html/sources/welcome.php",
-				"/C/Users/SN/AppData/Local/Temp/scp19340/public_html/sources/choose-username.php"
+				"/C/Users/SN/Desktop/confs/config- ne radi ORIGINAL.php"
 			],
 			"find":
 			{
@@ -1458,6 +615,22 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"calenda",
+					"calend\\",
+					"priva",
+					"privacy",
+					"First Name",
+					"my acco",
+					"my",
+					"wrap",
+					"bold_fold",
+					"address",
+					"state",
+					"city",
+					"select",
+					"tr",
+					"						\n",
+					"area",
 					"empt",
 					"trimm",
 					"<?",
@@ -1569,23 +742,7 @@
 					"md5",
 					"class ",
 					"class",
-					"getSett",
-					"include",
-					"word_wrap",
-					"word",
-					"wo0rd",
-					"mijat",
-					"page main",
-					"page_man",
-					"get_user_by_provider_and_id",
-					"create",
-					"pageMa",
-					"create_new_hybridauth_user",
-					"$provider_name, $user_profile->identifier",
-					"get_user_by_provider_and_id",
-					"			$",
-					"Hybriauth config does not exist on the given path",
-					"config"
+					"getSett"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -1593,6 +750,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"status",
+					"address",
+					"nationality",
+					"state",
 					"content",
 					" data-x=\"20\"",
 					" ",
@@ -1614,553 +775,13 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "/C/xampp/htdocs/snadmin/public_html"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/C/xampp/htdocs/snadmin/public_html/app/config/database.php",
-							"settings":
-							{
-								"buffer_size": 3304,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										885,
-										885
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"function_name_status_row": 23,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/xampp/htdocs/snadmin/public_html/app/models/User.php",
-							"settings":
-							{
-								"buffer_size": 924,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										207,
-										207
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"function_name_status_row": 13,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/xampp/htdocs/snadmin/public_html/app/controllers/UserController.php",
-							"settings":
-							{
-								"buffer_size": 18084,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										519,
-										531
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"function_name_status_row": 12,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/xampp/htdocs/snadmin/public_html/app/Authority/Service/Form/Register/RegisterForm.php",
-							"settings":
-							{
-								"buffer_size": 1119,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										292,
-										292
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"function_name_status_row": 13,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 216.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/C/xampp/htdocs/snadmin/public_html/app/Authority/Service/Form/Register/RegisterFormLaravelValidator.php",
-							"settings":
-							{
-								"buffer_size": 640,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										523,
-										523
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"function_name_status_row": 18,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-							"settings":
-							{
-								"buffer_size": 201,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										197,
-										197
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"function_name_status_row": 4,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Trimmer.py",
-							"settings":
-							{
-								"buffer_size": 3799,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										76,
-										53
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"function_name_status_row": 3,
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 35.0
 			},
 			"input":
 			{
-				"height": 35.0
+				"height": 52.0
 			},
 			"layout":
 			{
@@ -2193,7 +814,6 @@
 			{
 				"height": 146.0
 			},
-			"position": "0,0,1,-1,-1,-1,-1,1080,0,0,1920",
 			"replace":
 			{
 				"height": 66.0
@@ -2204,6 +824,54 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"crete_new",
+						"public_html/app/views/users/create_new_user.blade.php"
+					],
+					[
+						"userscreate",
+						"public_html/app/views/users/create.blade.php"
+					],
+					[
+						"rou",
+						"public_html/app/routes.php"
+					],
+					[
+						"rout",
+						"public_html/app/routes.php"
+					],
+					[
+						"empt",
+						"public_html/app/views/metronic/empty.blade.php"
+					],
+					[
+						"viewuserprof",
+						"public_html/app/views/users/profile.blade.php"
+					],
+					[
+						"sentry",
+						"app/Authority/Repo/User/SentryUser.php"
+					],
+					[
+						"promote",
+						"app/views/jobs/promote.blade.php"
+					],
+					[
+						"create_new",
+						"app/views/users/create_new_user.blade.php"
+					],
+					[
+						"viewusercreate",
+						"app/views/users/create.blade.php"
+					],
+					[
+						"viewuser",
+						"app/views/users/index.blade.php"
+					],
+					[
+						"users",
+						"app/tests/UserControllerTest.php"
+					],
 					[
 						"user",
 						"app/controllers/UserController.php"
@@ -2287,9 +955,959 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 253.0,
+			"side_bar_width": 221.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1727.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"j",
+						"js_refresh_5	Refresh page 5 sec"
+					],
+					[
+						"mij",
+						"mijat3	opis 3"
+					],
+					[
+						"mijat",
+						"mijat	mijat"
+					],
+					[
+						"dvi",
+						"dvi3	dvi3"
+					],
+					[
+						"form",
+						"form_checkbox	Form::checkbox"
+					],
+					[
+						"pocetak",
+						"pocetak_kursa"
+					],
+					[
+						"jq",
+						"jq_ready	asd"
+					],
+					[
+						"php",
+						"php_error	ini_set('display_errors',1); ini_set('display_startup_errors',1); error_reporting(-1);"
+					],
+					[
+						"php_err",
+						"php_errors	php_errors"
+					],
+					[
+						"image",
+						"image_name"
+					],
+					[
+						"make",
+						"make_query"
+					],
+					[
+						"print",
+						"printer_list"
+					],
+					[
+						"res",
+						"resultSettings"
+					],
+					[
+						"config",
+						"config_file_path"
+					],
+					[
+						"time",
+						"timeDifference"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"max",
+						"max_broj_kolona"
+					],
+					[
+						"name",
+						"name_of_chart_type"
+					],
+					[
+						"datumi",
+						"datumi_koji_se_koriste"
+					],
+					[
+						"niz",
+						"niz_za_select_basic_bar_chart"
+					],
+					[
+						"data",
+						"dataset2_start"
+					],
+					[
+						"datas",
+						"dataset_1_mesec"
+					],
+					[
+						"dataset",
+						"dataset_1"
+					],
+					[
+						"f1",
+						"f1_time_of_the_day"
+					],
+					[
+						"area",
+						"area_with_negative_values"
+					],
+					[
+						"ear",
+						"earliest_series_start_id"
+					],
+					[
+						"change",
+						"change_to"
+					],
+					[
+						"data3",
+						"data3_count"
+					],
+					[
+						"poc",
+						"pochinje_od"
+					],
+					[
+						"broj",
+						"broj_od_koje_kategorije_pocinje"
+					],
+					[
+						"od",
+						"od_koje_kategorije_pocinje"
+					],
+					[
+						"ser",
+						"series_start"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"Ear",
+						"earliest_series_start"
+					],
+					[
+						"freq",
+						"frequency"
+					],
+					[
+						"fre",
+						"frequency_count"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"wa",
+						"waTable_cart"
+					],
+					[
+						"br",
+						"brojac_m"
+					],
+					[
+						"xls",
+						"xls"
+					],
+					[
+						"ses",
+						"sessObj"
+					],
+					[
+						"f_m",
+						"f_mob2"
+					],
+					[
+						"obj",
+						"object"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"post",
+						"postjquery	jquery Ajax .post()"
+					],
+					[
+						"jso",
+						"json_encode"
+					],
+					[
+						"mi",
+						"mijat"
+					],
+					[
+						"in",
+						"input	Tag"
+					],
+					[
+						"js",
+						"json_encode"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 127.0,
+				"selected_items":
+				[
+					[
+						"snippet pr",
+						"Snippet: pre print_r die"
+					],
+					[
+						"blade",
+						"BracketHighlighter: Select Tag Name (closing and opening)"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"snippetmak",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"snippet",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"trim",
+						"Trimmer: Delete empty lines."
+					],
+					[
+						"package ",
+						"Package Control: Remove Package"
+					],
+					[
+						"packe",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"packege",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"scaf",
+						"Laravel Generate: Scaffold"
+					],
+					[
+						"scaff",
+						"Laravel Generate: Scaffold"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"snippet a",
+						"Snippet: Jquery .post() Ajax"
+					],
+					[
+						"snippet make",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"snippet mak",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"snippet ma",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"brace",
+						"BracketHighlighter: Select Bracket Content"
+					],
+					[
+						"bracer",
+						"BracketHighlighter: Select Bracket Content"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"bracket",
+						"BracketHighlighter: Select Bracket Content"
+					],
+					[
+						"laravel",
+						"Laravel Generate: Model"
+					],
+					[
+						"larave",
+						"Laravel Generate: Scaffold"
+					],
+					[
+						"snipet",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"bracke",
+						"BracketHighlighter: Select Bracket Content"
+					],
+					[
+						"book",
+						"Bookmarks: Clear All"
+					],
+					[
+						"brac",
+						"BracketHighlighter: Select Tag Name (closing and opening)"
+					],
+					[
+						"trime",
+						"Trimmer: Trim trailing whitespace."
+					],
+					[
+						"hight",
+						"BracketHighlighter: Wrap Selections with Brackets"
+					],
+					[
+						"high",
+						"BracketHighlighter: Swap Brackets"
+					],
+					[
+						"brack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"snippet maker",
+						"SnippetMaker: Make Snippet"
+					],
+					[
+						"snippet:",
+						"Snippet: Jquery Post Ajax"
+					],
+					[
+						"brow",
+						"SFTP: Browse Server…"
+					],
+					[
+						"sftp",
+						"SFTP: Setup Server…"
+					],
+					[
+						"json",
+						"Set Syntax: SJSON"
+					],
+					[
+						"laravel ",
+						"Laravel Generate: Controller"
+					],
+					[
+						"lara res",
+						"Laravel Generate: Resource"
+					],
+					[
+						"laravel r",
+						"Laravel Generate: Resource"
+					],
+					[
+						"resour",
+						"Laravel Generate: Resource"
+					],
+					[
+						"larave res",
+						"Laravel Generate: Resource"
+					],
+					[
+						"resource",
+						"Laravel Generate: Resource"
+					],
+					[
+						"res",
+						"Laravel Generate: Resource"
+					],
+					[
+						"reso",
+						"Laravel Artisan Command"
+					],
+					[
+						"ftp",
+						"SFTP: Browse Server…"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa\\",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"package conta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 539.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/htdocs/fbGit/includes/classes.php",
+				"/C/xampp/htdocs/fbGit/requests/load_chat.php",
+				"/C/Google Drive/serveri/Ifeedback.txt",
+				"/C/Google Drive/serveri/legacy.mijatovicivan.com.txt",
+				"/C/Google Drive/serveri/Ifeedback-2.txt",
+				"/C/Google Drive/serveri/james.mijatovicivan.com.txt",
+				"/C/Google Drive/serveri/server-brian.txt",
+				"/C/Google Drive/serveri/QRD SEVER.txt",
+				"/C/Google Drive/serveri/ps.mijatovicivan.com.txt",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/pf.sublime-snippet",
+				"/C/xampp/htdocs/snadmin/public_html/app/controllers/BaseController.php",
+				"/C/Google Drive/serveri/facebookklller.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/config/database.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/cago.sublime-snippet",
+				"/C/Users/SN/AppData/Local/Temp/scp32393/public_html/app/views/metronic/empty.blade.php",
+				"/D/backup/facebookkiller/sources/notifications.php",
+				"/C/Users/SN/AppData/Local/Temp/scp35467/public_html/app/controllers/NotificationsController.php",
+				"/D/backup/facebookkiller/includes/classes.php",
+				"/D/backup/facebookkiller/requests/check_messages.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/Authority/Service/Form/Register/RegisterFormLaravelValidator.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/C/xampp/htdocs/snadmin/public_html/app/models/User.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/form_select.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/SN/Desktop/index.html",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/new_templates.py",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/dvi.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/SnippetMaker/snippet_maker.py",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/proba2.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/print.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/snipet.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/php_error.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/js_refresh_5.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/google_jquery.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.last-run",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/MySnippets.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/mijat3.sublime-snippet",
+				"/C/xampp/htdocs/snadmin/public_html/app/controllers/UserController.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/dvi3.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/form_checkbox.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/form_label.sublime-snippet",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/users/create.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/tests/UserControllerTest.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Default.sublime-commands",
+				"/C/xampp/htdocs/snadmin/public_html/app/Authority/Service/Form/Register/RegisterForm.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Trimmer.pyc",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Main.sublime-menu",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Find Function Definition/go2function.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Find Function Definition/README.md",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Trimmer/Default (Windows).sublime-keymap",
+				"/C/xampp/htdocs/snadmin/public_html/vendor/nesbot/carbon/readme.md",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Function Name Display/Function Name Display.sublime-settings",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Function Name Display.sublime-settings",
+				"/C/xampp/htdocs/snadmin/public_html/vendor/phpunit/phpunit/Tests/Util/TypeTest.php",
+				"/C/xampp/htdocs/snadmin/public_html/.travis.yml",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/jobs/index.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/emails/index.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/metronic/empty.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/jobs/task.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/controllers/JobsController.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/models/Job.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/models/Email.php",
+				"/D/backup/photo.mijatovicivan.com/2014-05-15/public_html/app/views/pages/calendar.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/pages/calendar.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/controllers/EmailsController.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/controllers/PagesController.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/routes.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/emails/create.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/emails/edit.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/emails/show.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/jobs/promote.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/jobs/create.blade.php",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/groups/edit.blade.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+				"/C/xampp/htdocs/snadmin/public_html/app/views/groups/index.blade.php",
+				"/C/Users/SN/Desktop/james.txt",
+				"/C/Google Drive/serveri/rentals.mijatovicivan.com.txt",
+				"/C/Users/SN/Desktop/serveri/QRD SEVER.txt",
+				"/C/Users/SN/AppData/Local/Temp/fz3temp-1/index.html",
+				"/C/xampp/htdocs/fbGit/includes/class.smtp.php",
+				"/C/xampp/htdocs/fbGit/themes/dolphin/html/admin/manage_reports.html",
+				"/C/xampp/htdocs/fbGit/themes/dolphin/js/functions.js",
+				"/C/Users/SN/AppData/Local/Temp/jotform_anywhere_demo/jotform_anywhere_demo/site_editor.php",
+				"/C/Users/SN/AppData/Local/Temp/jotform_anywhere_demo/jotform_anywhere_demo/site_live.php",
+				"/C/Users/SN/Documents/formoid.php",
+				"/C/Users/SN/Documents/.htaccess",
+				"/C/Users/SN/Documents/footer.inc.php",
+				"/C/Users/SN/Documents/formoid.html",
+				"/C/Users/SN/Documents/formoid_files/formoid1/formoid-solid-blue.js",
+				"/C/Users/SN/Desktop/0download/INSTALL.txt",
+				"/C/Users/SN/Desktop/0download/README.txt",
+				"/C/xampp/htdocs/fbGit/sources/choose-username.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/mijat.sublime-snippet",
+				"/C/xampp/htdocs/fbGit/sources/settings.php",
+				"/C/xampp/htdocs/fbGit/includes/config.php",
+				"/C/xampp/htdocs/fbGit/themes/dolphin/html/settings/change_username.html",
+				"/C/xampp/htdocs/fbGit/themes/dolphin/html/settings/general.html",
+				"/C/Users/SN/AppData/Local/Temp/scp40310/public_html/app/controllers/StatisticsController.php",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/Default/Main.sublime-menu",
+				"/C/xampp/htdocs/fbGit/themes/dolphin/html/settings/security.html",
+				"/C/xampp/htdocs/fbGit/languages/english.php",
+				"/C/xampp/htdocs/fbGit/themes/dolphin/html/admin/users_settings.html",
+				"/C/xampp/htdocs/fbGit/languages/romanian.php",
+				"/C/xampp/htdocs/fbGit/languages/netherlands.php",
+				"/C/xampp/htdocs/fbGit/themes/dolphin/html/welcome/choose-username.html",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/jq_ready.sublime-snippet",
+				"/C/Users/SN/AppData/Roaming/Sublime Text 2/Packages/User/php_errors.sublime-snippet",
+				"/C/xampp/htdocs/fbGit/sources/welcome.php",
+				"/C/Users/SN/AppData/Local/Temp/scp55411/public_html/sources/welcome.php",
+				"/C/Users/SN/AppData/Local/Temp/scp55563/public_html/index.php",
+				"/C/Users/SN/AppData/Local/Temp/scp55771/public_html/includes/classes.php",
+				"/C/Users/SN/AppData/Local/Temp/scp54274/public_html/includes/config.php",
+				"/C/xampp/htdocs/fbGit/.git/config",
+				"/C/xampp/htdocs/fbkiller/includes/config.php",
+				"/C/xampp/htdocs/fbOriginal/sources/profile.php",
+				"/C/xampp/htdocs/fbGit/README.md",
+				"/C/Users/SN/AppData/Local/Temp/scp52849/public_html/includes/config.php",
+				"/C/xampp/htdocs/fbOriginal/includes/config.php",
+				"/C/Users/SN/Desktop/stefan -facebookKiller/2014-05-09 - Ivan Backup/public_html/sources/profile.php",
+				"/C/Users/SN/Desktop/stefan -facebookKiller/2014-05-09 - Stefan Backup/fb.killer/sources/profile.php",
+				"/C/Users/SN/Desktop/stefan -facebookKiller/facebookkiller ORIGINAL/facebookkiller/sources/profile.php",
+				"/C/xampp/htdocs/facebookkiller/includes/config.php",
+				"/C/Users/SN/AppData/Local/Temp/scp06777/public_html/custom/views/get_photos.php",
+				"/C/xampp/htdocs/fb-last - radi/includes/classes.php",
+				"/C/Users/SN/AppData/Local/Temp/scp20636/public_html/custom/views/open_album.php"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"C:\\xampp\\htdocs\\fb-last",
+					"C:\\xampp\\htdocs\\facebookkiller",
+					"C:\\Users\\SN\\Desktop\\hybridauth-2.1.2\\h",
+					"C:\\xampp\\htdocs\\facebookkiller",
+					"C:\\xampp\\htdocs\\face"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"calenda",
+					"calend\\",
+					"priva",
+					"privacy",
+					"First Name",
+					"my acco",
+					"my",
+					"wrap",
+					"bold_fold",
+					"address",
+					"state",
+					"city",
+					"select",
+					"tr",
+					"						\n",
+					"area",
+					"empt",
+					"trimm",
+					"<?",
+					"exter",
+					"useri_i_boje",
+					"created_at",
+					"$f2_photo_shoot_scheduled",
+					"photo_shoo",
+					"created ",
+					" created ",
+					"created ",
+					"created",
+					"Invalid Date",
+					"komentar",
+					"statistics",
+					"add new",
+					"$email->id), array(",
+					"pocetak_kursa",
+					"kontakti",
+					"job",
+					"obavestenje",
+					"div1",
+					"id='div",
+					"id='d",
+					"id=\"d",
+					"opt",
+					"maxlength_textarea",
+					"maxlength_textarea2",
+					"maxlength_textarea",
+					"select",
+					"date",
+					"textarea",
+					"rules",
+					"main",
+					"datum",
+					"verifyf",
+					"verify_f",
+					"verify",
+					">\n",
+					"<",
+					"user_ttl_change_username",
+					"user_ttl_change_username i",
+					"user_ttl_",
+					"user_ttl_c",
+					"user_ttl_change_usernam",
+					" user_ttl_change_usernam",
+					"security",
+					"username",
+					"update",
+					"username",
+					"new sni",
+					"username",
+					"college_year",
+					"Year",
+					"email",
+					"settings",
+					"username",
+					"curr",
+					"username",
+					"sub_first_name",
+					"username",
+					"sub_first_name",
+					"username",
+					"error_reporting",
+					"error",
+					"currentFirstName",
+					"if(isset($_GET['b'])) ",
+					">>>>>",
+					"<<<<",
+					"socialL",
+					"<<<<",
+					"sociall",
+					"soci",
+					"sol",
+					"<<<<<",
+					"socialLogIn",
+					"social",
+					"update",
+					"USER P",
+					"-------------",
+					"$r->",
+					"socialIn",
+					"this",
+					"socialLogIn_deactivated",
+					"tmpl",
+					"unset",
+					"unser",
+					"header",
+					"mysql",
+					"quer",
+					"<script",
+					"header",
+					"footer",
+					".js",
+					"class ",
+					"$cash",
+					"$cas",
+					"display",
+					"cannot be",
+					"$cache_dir",
+					"cannot be displayed because it contains errors",
+					"cannot be displayed because it contains errors.",
+					"base",
+					"open_",
+					"open",
+					"update",
+					"upload",
+					"sess",
+					"md5",
+					"class ",
+					"class",
+					"getSett"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"status",
+					"address",
+					"nationality",
+					"state",
+					"content",
+					" data-x=\"20\"",
+					" ",
+					"updateUserSettings",
+					"'",
+					"sheetData1",
+					"waTable_cart",
+					"1286B2",
+					"jQuery",
+					" ",
+					"kooslive",
+					"#B929C8",
+					"img",
+					"./"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/C/xampp/htdocs/fbGit"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.sftp":
+			{
+				"height": 146.0
+			},
+			"position": "0,0,1,-1,-1,-1,-1,1031,159,76,1826",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"incclas",
+						"includes/classes.php"
+					],
+					[
+						"requestload",
+						"requests/load_chat.php"
+					],
+					[
+						"crete_new",
+						"public_html/app/views/users/create_new_user.blade.php"
+					],
+					[
+						"userscreate",
+						"public_html/app/views/users/create.blade.php"
+					],
+					[
+						"rou",
+						"public_html/app/routes.php"
+					],
+					[
+						"rout",
+						"public_html/app/routes.php"
+					],
+					[
+						"empt",
+						"public_html/app/views/metronic/empty.blade.php"
+					],
+					[
+						"viewuserprof",
+						"public_html/app/views/users/profile.blade.php"
+					],
+					[
+						"sentry",
+						"app/Authority/Repo/User/SentryUser.php"
+					],
+					[
+						"promote",
+						"app/views/jobs/promote.blade.php"
+					],
+					[
+						"create_new",
+						"app/views/users/create_new_user.blade.php"
+					],
+					[
+						"viewusercreate",
+						"app/views/users/create.blade.php"
+					],
+					[
+						"viewuser",
+						"app/views/users/index.blade.php"
+					],
+					[
+						"users",
+						"app/tests/UserControllerTest.php"
+					],
+					[
+						"user",
+						"app/controllers/UserController.php"
+					],
+					[
+						"class",
+						"includes/classes.php"
+					],
+					[
+						"sett",
+						"sources/settings.php"
+					],
+					[
+						"setti",
+						"sources/settings.php"
+					],
+					[
+						"choose",
+						"sources/choose-username.php"
+					],
+					[
+						"settt",
+						"themes/dolphin/html/admin/users_settings.html"
+					],
+					[
+						"engl",
+						"languages/english.php"
+					],
+					[
+						"languages",
+						"languages/english.php"
+					],
+					[
+						"confi",
+						"includes/config.php"
+					],
+					[
+						"sourcesett",
+						"sources/settings.php"
+					],
+					[
+						"classesphp",
+						"includes/classes.php"
+					],
+					[
+						"sourcesettingsph",
+						"sources/settings.php"
+					],
+					[
+						"welcomecontenthtml",
+						"themes/dolphin/html/welcome/content.html"
+					],
+					[
+						"contact.html",
+						"themes/dolphin/html/page/contact.html"
+					],
+					[
+						"thum",
+						"thumb.php"
+					],
+					[
+						"upload",
+						"Examples/upload.php"
+					],
+					[
+						"07",
+						"Examples/07reader.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 221.0,
 			"status_bar_visible": true,
-			"window_id": 40,
+			"window_id": 49,
 			"workspace_name": ""
 		}
 	],
